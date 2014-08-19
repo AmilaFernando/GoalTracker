@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GoalTracker</string> 
+  	<string name="hello_world">Hello world!</string> 
+  	<string name="action_settings">Settings</string> 
+  	
+  	<!--strings for activity_login -->
+  	<string name="login_screen">Login Screen</string> 
+  	<string name="username">Username:</string> 
+  	<string name="password">Password:</string> 
+  	<string name="Login">Login</string> 
+  	<string name="attempts">Attempts Left:</string> 
+  	
+  	
+  	<!--strings for add_new_goal -->
+  	<string name="create_button">Create</string>
+  	<string name="cancel_button">Cancel</string>
+  	<string name="goalname_hint">Enter the Goal Name</string> 
+  	<string name="goaldescription_hint">Enter the Description</string> 
+  	<string name="goal_name">Goal Name</string> 
+  	<string name="description">Description</string> 
+  	<string name="starting_date">Starting Date</string> 
+  	<string name="starting_time">Starting Time</string> 
+  	<string name="ending_date">Ending Date</string> 
+  	<string name="ending_time">Ending Time</string> 
+  	
+  	
+
+</resources>
